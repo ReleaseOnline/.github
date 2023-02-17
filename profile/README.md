@@ -11,7 +11,7 @@ ReleaseOnline is a **mostly vanilla™** server for 1.0.0 vanilla. It has minima
 
 
 ## How to Join
-### 1 - Via the Betacraft Launcher
+### 1 - Via the Betacraft Launcher (recommended)
 Head over to https://betacraft.uk/downloads and click "Download universal launcher JAR". If you do not already have Java (not the version of Minecraft), you can download it from https://adoptium.net/temurin/releases?version=8. Once you've downloaded Java (if you needed to) and have downloaded the Betacraft Launcher, open the Betacraft Launcher. In the Betacraft Launcher click "Log in" then "Login with Microsoft" then follow the instructions the Betacraft Launcher gives you. Then click the "Server list" button at the top of the launcher. Scroll until you find ReleaseOnline under the Release Section. Click "ReleaseOnline" and that's it, you can revel and bask in the glory that is ReleaseOnline
 
 ### 2 - Via the MultiMC Launcher
