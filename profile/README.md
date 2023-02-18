@@ -2,7 +2,7 @@
 ReleaseOnline is a **mostly vanilla™** server for 1.0.0 vanilla. It has minimal plugins, only AntiCheat, claims and a simple rules and about plugin. ReleaseOnline is hosted in 🇮🇪.
 
 ## Rules
-* Don't be a d**k (e.g. Threats, Sexism, Racism, Doxing)
+* Don't be a dick (e.g. Threats, Sexism, Racism, Doxing)
 * No Hacks, Hacked Clients or X-Ray Texture Packs.
 * No game breaking exploits.
 * No unreasonable strings of profanity, one or two here and there is fine, just don't overdo it.
